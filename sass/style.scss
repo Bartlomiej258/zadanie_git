@@ -1,0 +1,64 @@
+.container {
+    max-width: 1140;
+    padding: 10px 10px;
+    text-align: center;
+    margin: auto;
+}
+.top-section {
+    background-image: url(https://images.pexels.com/photos/4164088/pexels-photo-4164088.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    
+}
+.icon-style {
+    font-size: 100px;
+    color: orange;
+}
+.icon-footer {
+    font-size: 30px;
+}
+.logo a {
+    font-size: 30px;
+    color: gold;
+}
+.logo-items {
+    font-size: 20px;
+}
+.welcome-text {
+    color: white;
+}
+.card-img-top {
+    width: 100%;
+}
+.row .card {
+    border-style: none;
+    justify-content: space-between
+}
+.portfolio {
+    background-color: lightgray;
+}
+.logo .nav-link{
+    font-family: 'Ephesis', cursive;
+    font-size: 50px;
+}
+.welcome-text .btn {
+    background-color: rgb(209, 209, 38);
+    color: white;
+}
+.welcome-text h3 {
+    font-family: 'Ephesis', cursive;
+    
+}
+.logo-items .nav-link {
+    color: white;
+}
+footer {
+    margin-top: 10px;
+    min-height: 100px;
+    
+}
+footer .fab {
+    text-align: center;
+}
+.jumbotron {
+    min-height: 600px;
+}
